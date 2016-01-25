@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff684bdc-33f0-4c02-9e13-5b79538f3c92" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_parameter.py" afterPath="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_parameter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.33 spiel_fertig.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PycharmProjects.iws" />
@@ -19,27 +19,28 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PycharmProjects$u_range_inch.coverage" NAME="u_range_inch Coverage Results" MODIFIED="1452962097251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3_22_spiel_while.coverage" NAME="3.22 spiel_while Coverage Results" MODIFIED="1453739828332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$u_eingabe_gehalt.coverage" NAME="u_eingabe_gehalt Coverage Results" MODIFIED="1451565928405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$3_16_range_drei.coverage" NAME="3.16 range_drei Coverage Results" MODIFIED="1452960719223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$u_parameter.coverage" NAME="u_parameter Coverage Results" MODIFIED="1453751732232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$schleife_for.coverage" NAME="schleife_for Coverage Results" MODIFIED="1451748618492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$parameter.coverage" NAME="parameter Coverage Results" MODIFIED="1453741325095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$verzweigung_mehrfach.coverage" NAME="verzweigung_mehrfach Coverage Results" MODIFIED="1451560945652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$schleife_break.coverage" NAME="schleife_break Coverage Results" MODIFIED="1451748878102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$parameter_mehrere.coverage" NAME="parameter_mehrere Coverage Results" MODIFIED="1453742158336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3_21_schleife_while.coverage" NAME="3.21 schleife_while Coverage Results" MODIFIED="1452972800397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3_31_rueckgabewert.coverage" NAME="3.31 rueckgabewert Coverage Results" MODIFIED="1453742495523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3_18_range_eins.coverage" NAME="3.18 range_eins Coverage Results" MODIFIED="1452961174468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3_17_range_zwei.coverage" NAME="3.17 range_zwei Coverage Results" MODIFIED="1452961057226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$u_while.coverage" NAME="u_while Coverage Results" MODIFIED="1452974699929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spiol_operator.coverage" NAME="spiol_operator Coverage Results" MODIFIED="1451746929992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3_33_spiel_fertig.coverage" NAME="3.33 spiel_fertig Coverage Results" MODIFIED="1453753519800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$u_eingabe_gehalt.coverage" NAME="u_eingabe_gehalt Coverage Results" MODIFIED="1451565928405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3_16_range_drei.coverage" NAME="3.16 range_drei Coverage Results" MODIFIED="1452960719223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$schleife_for.coverage" NAME="schleife_for Coverage Results" MODIFIED="1451748618492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$parameter.coverage" NAME="parameter Coverage Results" MODIFIED="1453741325095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$parameter_mehrere.coverage" NAME="parameter_mehrere Coverage Results" MODIFIED="1453742158336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$operator_logisch.coverage" NAME="operator_logisch Coverage Results" MODIFIED="1451561521197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$u_while__1_.coverage" NAME="u_while (1) Coverage Results" MODIFIED="1453740371033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$3_31_rueckgabewert.coverage" NAME="3.31 rueckgabewert Coverage Results" MODIFIED="1453742495523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$operator_vergleich.coverage" NAME="operator_vergleich Coverage Results" MODIFIED="1451566240851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$3_18_range_eins.coverage" NAME="3.18 range_eins Coverage Results" MODIFIED="1452961174468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$range_nachkommma.coverage" NAME="range_nachkommma Coverage Results" MODIFIED="1452961591712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$3_17_range_zwei.coverage" NAME="3.17 range_zwei Coverage Results" MODIFIED="1452961057226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3_20_spiel_range.coverage" NAME="3.20 spiel_range Coverage Results" MODIFIED="1452962301423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$u_while.coverage" NAME="u_while Coverage Results" MODIFIED="1452974699929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$schachtelung.coverage" NAME="schachtelung Coverage Results" MODIFIED="1452959714549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$spiel_while.coverage" NAME="spiel_while Coverage Results" MODIFIED="1452973589473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$spiol_operator.coverage" NAME="spiol_operator Coverage Results" MODIFIED="1451746929992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3_15_spiel_for.coverage" NAME="3.15 spiel_for Coverage Results" MODIFIED="1452960424091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -51,11 +52,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="u_parameter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_parameter.py">
+      <file leaf-file-name="3.33 spiel_fertig.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.33 spiel_fertig.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38716355">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.57763976">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.22 spiel_while.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.22 spiel_while.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -115,6 +126,7 @@
         <option value="$PROJECT_DIR$/Programmierkurs/Spiel/parameter_mehrere.py" />
         <option value="$PROJECT_DIR$/Programmierkurs/Spiel/3.31 rueckgabewert.py" />
         <option value="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_parameter.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Spiel/3.33 spiel_fertig.py" />
       </list>
     </option>
   </component>
@@ -169,25 +181,7 @@
       <recent name="C:\Users\Thomas\PycharmProjects\Programmierkurs\Spiel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.u_parameter">
-    <configuration default="false" name="u_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmierkurs/Spiel" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/u_while.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.3.33 spiel_fertig">
     <configuration default="false" name="parameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,6 +250,24 @@
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/3.31 rueckgabewert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="3.33 spiel_fertig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmierkurs/Spiel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/3.33 spiel_fertig.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -506,19 +518,19 @@
       <item index="0" class="java.lang.String" itemvalue="Python.3.22 spiel_while" />
       <item index="1" class="java.lang.String" itemvalue="Python.u_while (1)" />
       <item index="2" class="java.lang.String" itemvalue="Python.3.15 spiel_for" />
-      <item index="3" class="java.lang.String" itemvalue="Python.u_while" />
-      <item index="4" class="java.lang.String" itemvalue="Python.parameter" />
-      <item index="5" class="java.lang.String" itemvalue="Python.u_parameter" />
-      <item index="6" class="java.lang.String" itemvalue="Python.parameter_mehrere" />
-      <item index="7" class="java.lang.String" itemvalue="Python.3.31 rueckgabewert" />
+      <item index="3" class="java.lang.String" itemvalue="Python.parameter" />
+      <item index="4" class="java.lang.String" itemvalue="Python.u_parameter" />
+      <item index="5" class="java.lang.String" itemvalue="Python.parameter_mehrere" />
+      <item index="6" class="java.lang.String" itemvalue="Python.3.31 rueckgabewert" />
+      <item index="7" class="java.lang.String" itemvalue="Python.3.33 spiel_fertig" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.u_parameter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3.31 rueckgabewert" />
-        <item index="2" class="java.lang.String" itemvalue="Python.parameter_mehrere" />
-        <item index="3" class="java.lang.String" itemvalue="Python.parameter" />
-        <item index="4" class="java.lang.String" itemvalue="Python.u_while" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3.33 spiel_fertig" />
+        <item index="1" class="java.lang.String" itemvalue="Python.u_parameter" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3.31 rueckgabewert" />
+        <item index="3" class="java.lang.String" itemvalue="Python.parameter_mehrere" />
+        <item index="4" class="java.lang.String" itemvalue="Python.parameter" />
       </list>
     </recent_temporary>
   </component>
@@ -545,27 +557,33 @@
       <option name="project" value="LOCAL" />
       <updated>1453742666563</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="25.01.2016">
+      <created>1453751800658</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1453751800658</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="793" y="0" width="814" height="867" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5012531" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32585752" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5012531" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39841688" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -597,13 +615,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.22 spiel_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_eingabe_inch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -912,13 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.22 spiel_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14166667">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/parameter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -951,6 +955,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38716355">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.22 spiel_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.33 spiel_fertig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57763976">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
           <folding />
         </state>
       </provider>
