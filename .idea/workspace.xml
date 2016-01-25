@@ -2,288 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff684bdc-33f0-4c02-9e13-5b79538f3c92" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/GAkkord.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/figur.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/firma.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/globus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_highscore.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/highscore.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/highscore.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/objekt.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.15 spiel_for.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.16 range_drei.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.17 range_zwei.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.18 range_eins.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.20 spiel_range.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/.idea/Programmierkurs.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/Zuweisung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/anweisung_pass.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/ausgabe_formatieren.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/ausgabe_formatieren_c.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/ausgabe_tabelle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/ausgabe_tabelle_c.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/bit_operator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/browser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/bytes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/chr_ord.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/conditional_expression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/datei_info.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/datei_liste.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/datei_verwalten.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/daten.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/dictionary_eigenschaft.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/dictionary_funktion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/dictionary_vergleich.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/dictionary_view.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/eingabe_hilfe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/eingabe_text.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/eingabe_text.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/eingabe_zahl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/eingabe_zahl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/enumeration.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/eval_exec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/fehler_abfangen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/fehler_basis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/fehler_code.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/fehler_debuggen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/fehler_eingabe_neu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/fehler_erzeugen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/fehler_unterscheiden.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/funktion_einfach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/funktion_lambda.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/funktion_print.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_aendern_absolut.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_aendern_relativ.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_check.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_eigenschaft.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_entry.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_erstes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_fenster.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_fenster_sperren.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_kontextmenu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_koord_absolut.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_koord_relativ.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_label.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_listbox.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_listbox_mehrfach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_maus.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_menu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_message.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_pack.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_radio_ausfuehrung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_radio_auswahl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_rechner_grid.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_rechner_pack.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_scale.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_scrollbar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_scrolledtext.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_tastatur.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_text.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/gui_versteckt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/hallo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/highscore.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/iterable_filter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/iterable_map.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/iterable_zip.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/kommando_text.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/kommando_variabel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/kommando_zahl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/konvertierung.py.bak" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/konvertierung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/kopieren.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/lesen.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/lesen_alle_zeilen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/lesen_alles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/lesen_beliebig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/lesen_csv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/lesen_einzelzeile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/lesen_ende.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/list_comprehension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/liste_aendern.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/liste_eigenschaft.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/liste_element.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/liste_mehrdimensional.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/liste_operator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/max_min_sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/modul_as.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/modul_collections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/modul_from.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/modul_neu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/modul_verwenden.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/morsen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/morsen.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/morsen_bildschirm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/morsen_ton.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/mysql_anzeigen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/mysql_datensatz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/mysql_db.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/mysql_tabelle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/namensraum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/nichts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/objekt_lesen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/objekt_schreiben.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/obst.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/oop_besondere.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/oop_klasse.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/oop_konstruktor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/oop_kopieren.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/oop_mehrfach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/oop_operator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/oop_vererbung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/operator_logisch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/operator_logisch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/operator_vergleich.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/operator_vergleich.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/parameter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/parameter_benannt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/parameter_funktion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/parameter_mehrere.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/parameter_uebergabe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/parameter_variabel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/parameter_voreinstellung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/pi_blink.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/pi_bmp085.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/pi_bmp085_anzeigen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/pi_bmp085_db.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/pi_bmp085_speichern.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/pi_led.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/pi_morsen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/pi_taster.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/pi_taster_verbessert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/range_drei.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/range_eins.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/range_nachkomma.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/range_nachkommma.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/range_zwei.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/referenz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/regexp_ersetzen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/regexp_suchen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/ressourcen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/reversed_sorted.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/rueckgabe_tupel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/rueckgabewert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/schachtelung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schachtelung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/schleife_break.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schleife_break.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schleife_continue.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/schleife_for.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schleife_for.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schleife_while.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schreiben.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schreiben.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schreiben_beliebig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schreiben_csv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/schreiben_formatiert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/senden_get.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/senden_post.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/set_eigenschaft.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/set_frozenset.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/set_funktion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/set_operator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/set_teilmenge.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/sound.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_ausnahme.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_datei.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_datei_oop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/spiel_eingabe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_eingabe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_fertig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_for.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_funktion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_gui.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_oop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_operator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_range.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_sqlite.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_sqlite_oop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/spiel_verzweigung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_verzweigung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_while.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_zeit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_zeit_oop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/spiel_zufallszahl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/spiel_zufallszahl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/spiol_operator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/sqlite_aendern.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/sqlite_anzeigen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/sqlite_auswaehlen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/sqlite_eingabe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/sqlite_erzeugen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/sqlite_like.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/sqlite_loeschen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/sqlite_sortieren.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/statistik.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/text_eigenschaft.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/text_in_zahl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/text_keine_zahl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/text_operation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/text_operator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/text_suchen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/text_unveraenderbar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/text_von_zahl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/text_zerlegen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/thread_ausnahme.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/thread_erzeugen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/thread_gemeinsam.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/thread_ident.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/tupel_entpacken.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/tupel_operation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_eingabe_gehalt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_eingabe_gehalt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_eingabe_inch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_eingabe_inch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_fehler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_modul.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_modul_finanz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_operator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_parameter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_range.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/u_range_inch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_range_inch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_rueckgabewert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_tabelle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_verzweigung_einfach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_verzweigung_mehrfach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/u_while.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/url_kopieren.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/url_kopieren.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/url_lesen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/verzweigung_einfach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/verzweigung_einfach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/verzweigung_mehrfach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/verzweigung_mehrfach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/wahrheitswert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/werte_veraendern.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zahl_bruch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zahl_bruch_naehern.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zahl_ganz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zahl_hoch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zahl_math.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zahl_nachkomma.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zahl_type.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zahl_umwandeln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zeile_lang.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zeit_alter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zeit_anhalten.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zeit_erzeugen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zeit_localtime.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zeit_rechnen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zeit_strftime.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zuweisung.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python34/zuweisung_kombiniert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.21 schleife_while.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.22 spiel_while.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.30parameter_mehrere.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/3.31 rueckgabewert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/parameter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/spiel_while.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_parameter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Spiel/u_while.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_while.py" />
+      <change type="DELETED" beforePath="C:\Users\Thomas\PycharmProjects\Python34\u_eingabe_inch.py" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Thomas\PycharmProjects\Programmierkurs\Spiel\u_range_inch.py" afterPath="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_range_inch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PycharmProjects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -298,18 +28,27 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PycharmProjects$u_range_inch.coverage" NAME="u_range_inch Coverage Results" MODIFIED="1452962097251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3_22_spiel_while.coverage" NAME="3.22 spiel_while Coverage Results" MODIFIED="1453739828332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$u_eingabe_gehalt.coverage" NAME="u_eingabe_gehalt Coverage Results" MODIFIED="1451565928405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3_16_range_drei.coverage" NAME="3.16 range_drei Coverage Results" MODIFIED="1452960719223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$u_parameter.coverage" NAME="u_parameter Coverage Results" MODIFIED="1453741841237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs" />
     <SUITE FILE_PATH="coverage/PycharmProjects$schleife_for.coverage" NAME="schleife_for Coverage Results" MODIFIED="1451748618492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$parameter.coverage" NAME="parameter Coverage Results" MODIFIED="1453741325095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$verzweigung_mehrfach.coverage" NAME="verzweigung_mehrfach Coverage Results" MODIFIED="1451560945652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$schleife_break.coverage" NAME="schleife_break Coverage Results" MODIFIED="1451748878102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$parameter_mehrere.coverage" NAME="parameter_mehrere Coverage Results" MODIFIED="1453742158336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3_21_schleife_while.coverage" NAME="3.21 schleife_while Coverage Results" MODIFIED="1452972800397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$operator_logisch.coverage" NAME="operator_logisch Coverage Results" MODIFIED="1451561521197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$u_while__1_.coverage" NAME="u_while (1) Coverage Results" MODIFIED="1453740371033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3_31_rueckgabewert.coverage" NAME="3.31 rueckgabewert Coverage Results" MODIFIED="1453742495523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$operator_vergleich.coverage" NAME="operator_vergleich Coverage Results" MODIFIED="1451566240851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3_18_range_eins.coverage" NAME="3.18 range_eins Coverage Results" MODIFIED="1452961174468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$range_nachkommma.coverage" NAME="range_nachkommma Coverage Results" MODIFIED="1452961591712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3_17_range_zwei.coverage" NAME="3.17 range_zwei Coverage Results" MODIFIED="1452961057226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3_20_spiel_range.coverage" NAME="3.20 spiel_range Coverage Results" MODIFIED="1452962301423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$u_while.coverage" NAME="u_while Coverage Results" MODIFIED="1452974699929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$schachtelung.coverage" NAME="schachtelung Coverage Results" MODIFIED="1452959714549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spiel_while.coverage" NAME="spiel_while Coverage Results" MODIFIED="1452973589473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$spiol_operator.coverage" NAME="spiol_operator Coverage Results" MODIFIED="1451746929992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3_15_spiel_for.coverage" NAME="3.15 spiel_for Coverage Results" MODIFIED="1452960424091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmierkurs/Spiel" />
   </component>
@@ -366,6 +105,15 @@
         <option value="$PROJECT_DIR$/Programmierkurs/Spiel/range_nachkommma.py" />
         <option value="$PROJECT_DIR$/Programmierkurs/Spiel/u_range_inch.py" />
         <option value="$PROJECT_DIR$/Programmierkurs/Spiel/3.20 spiel_range.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Spiel/3.21 schleife_while.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Spiel/spiel_while.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Spiel/u_while.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Spiel/3.22 spiel_while.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_while.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Spiel/parameter.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_parameter.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Spiel/parameter_mehrere.py" />
+        <option value="$PROJECT_DIR$/Programmierkurs/Spiel/3.31 rueckgabewert.py" />
       </list>
     </option>
   </component>
@@ -389,7 +137,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -405,7 +153,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -441,10 +189,46 @@
               <option name="myItemId" value="Programmierkurs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Übungen_Programmierkurs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Programmierkurs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spiel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Programmierkurs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -454,15 +238,16 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Thomas\PycharmProjects\Programmierkurs\Spiel" />
       <recent name="C:\Users\Thomas\PycharmProjects\Programmierkurs\Übungen_Programmierkurs" />
+      <recent name="C:\Users\Thomas\PycharmProjects\Programmierkurs\Spiel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3.20 spiel_range">
-    <configuration default="false" name="3.17 range_zwei" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3.31 rueckgabewert">
+    <configuration default="false" name="u_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -475,12 +260,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/3.17 range_zwei.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/u_while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3.18 range_eins" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="parameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -493,30 +278,30 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/3.18 range_eins.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/parameter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="range_nachkommma" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="u_parameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmierkurs/Spiel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/range_nachkommma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_parameter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="u_range_inch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="parameter_mehrere" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -529,12 +314,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/u_range_inch.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Thomas\PycharmProjects\Programmierkurs\Spiel\3.30parameter_mehrere.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3.20 spiel_range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="3.31 rueckgabewert" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -547,7 +332,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/3.20 spiel_range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/3.31 rueckgabewert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -740,6 +525,42 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="3.22 spiel_while" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmierkurs/Spiel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Spiel/3.22 spiel_while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="u_while (1)" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="false" name="3.15 spiel_for" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -758,21 +579,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Python.3.15 spiel_for" />
-      <item index="1" class="java.lang.String" itemvalue="Python.3.17 range_zwei" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3.18 range_eins" />
-      <item index="3" class="java.lang.String" itemvalue="Python.range_nachkommma" />
-      <item index="4" class="java.lang.String" itemvalue="Python.u_range_inch" />
-      <item index="5" class="java.lang.String" itemvalue="Python.3.20 spiel_range" />
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Python.3.22 spiel_while" />
+      <item index="1" class="java.lang.String" itemvalue="Python.u_while (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.3.15 spiel_for" />
+      <item index="3" class="java.lang.String" itemvalue="Python.u_while" />
+      <item index="4" class="java.lang.String" itemvalue="Python.parameter" />
+      <item index="5" class="java.lang.String" itemvalue="Python.u_parameter" />
+      <item index="6" class="java.lang.String" itemvalue="Python.parameter_mehrere" />
+      <item index="7" class="java.lang.String" itemvalue="Python.3.31 rueckgabewert" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3.20 spiel_range" />
-        <item index="1" class="java.lang.String" itemvalue="Python.u_range_inch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.range_nachkommma" />
-        <item index="3" class="java.lang.String" itemvalue="Python.3.18 range_eins" />
-        <item index="4" class="java.lang.String" itemvalue="Python.3.17 range_zwei" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3.31 rueckgabewert" />
+        <item index="1" class="java.lang.String" itemvalue="Python.parameter_mehrere" />
+        <item index="2" class="java.lang.String" itemvalue="Python.u_parameter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.parameter" />
+        <item index="4" class="java.lang.String" itemvalue="Python.u_while" />
       </list>
     </recent_temporary>
   </component>
@@ -787,6 +610,13 @@
       <option name="number" value="Default" />
       <updated>1451558846838</updated>
     </task>
+    <task id="LOCAL-00001" summary="zweiter versuch">
+      <created>1452964114679</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1452964114679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -794,18 +624,18 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985657" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985657" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32594523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5012531" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39895698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39841688" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -828,7 +658,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zweiter versuch" />
-    <option name="LAST_COMMIT_MESSAGE" value="zweiter versuch" />
+    <MESSAGE value="25.01.2016" />
+    <option name="LAST_COMMIT_MESSAGE" value="25.01.2016" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -837,7 +668,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/schleife_for.py">
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.22 spiel_while.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -845,10 +676,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/schleife_break.py">
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_eingabe_inch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_eingabe_gehalt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -857,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,7 +702,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/schleife_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/schleife_break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -873,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="8" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,7 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,13 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_eingabe_inch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/eingabe_text.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -966,13 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="312" column="0" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_eingabe_gehalt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.034979425">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1036,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.023004059">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,7 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.023004059">
           <caret line="1" column="8" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1399177">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,7 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10493827">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1068,7 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1076,7 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.034979425">
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,23 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34979424">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/u_range_inch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10493827">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.20 spiel_range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80452675">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1108,6 +919,117 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.055555556">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.21 schleife_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41975307">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/spiel_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79012346">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.20 spiel_range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.034979425">
+          <caret line="1" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_range_inch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10493827">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python34/u_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/u_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2798354">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_eingabe_inch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24791667">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.22 spiel_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14166667">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_eingabe_gehalt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Übungen_Programmierkurs/u_parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17708333">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.31 rueckgabewert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10625">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmierkurs/Spiel/3.30parameter_mehrere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035416666">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="24" />
           <folding />
         </state>
       </provider>
